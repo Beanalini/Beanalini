@@ -1,7 +1,3 @@
-<div align='center'>
-  <img src=https://user-images.githubusercontent.com/78593127/212943256-117eac74-a55b-47bf-90c0-af502b183082.png />
-  </div>  
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debra Constantinou
 ==========================================================================================================================================
 
@@ -13,7 +9,8 @@ Webdev with a background in automotive engineering.
 
 * ✉️  You can contact me at [beanalini@outlook.com](mailto:beanalini@outlook.com)
 * 🤝  I'm open to collaborating on anything interesting
-* 🌱 I’m currently learning ...
+* 🌱 I’m currently learning AWS
+
 
 
 ### Skills
