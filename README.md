@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debra Constantinou
 ==========================================================================================================================================
+![beanalini_new png](https://user-images.githubusercontent.com/78593127/212943256-117eac74-a55b-47bf-90c0-af502b183082.png)
 
 Web developer.
 --------------
@@ -8,7 +9,7 @@ Webdev with a background in automotive engineering.
 
 * ✉️  You can contact me at [beanalini@outlook.com](mailto:beanalini@outlook.com)
 * 🤝  I'm open to collaborating on anything interesting
-
+* 🌱 I’m currently learning ...
 <a href="https://www.github.com/Beanalini" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Beanalini?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
