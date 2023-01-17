@@ -5,11 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer.
 --------------
 
-Webdev with a background in automotive engineering.
+Full stack webdev with a background in automotive engineering.
 
 * ✉️  You can contact me at [beanalini@outlook.com](mailto:beanalini@outlook.com)
 * 🤝  I'm open to collaborating on anything interesting
 * 🌱 I’m currently learning AWS
+
 
 
 
