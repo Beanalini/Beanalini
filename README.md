@@ -40,10 +40,12 @@ Full stack webdev with a background in automotive engineering.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Beanalini"><img src="https://github-readme-stats.vercel.app/api?username=Beanalini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Beanalini's GitHub stats" /></a>
+| <a href="https://github.com/Beanalini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Beanalini&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Beanalini's github stats" /></a> | <a href="https://github.com/Beanalini/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanalini&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ----------------------------|-------------------------------|
 
 
-<a href="https://github.com/Beanalini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beanalini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 
 <!--
 **Beanalini/Beanalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
